@@ -11,4 +11,4 @@ trail for creating merge request from command line
 do
 
 
-from jenkins
+from jenkin
